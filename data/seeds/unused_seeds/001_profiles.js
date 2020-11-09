@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 const faker = require('faker');
 
 const profiles = [...new Array(5)].map((i, idx) => ({

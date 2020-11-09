@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 exports.seed = function (knex) {
   // Deletes ALL existing entries
   return knex('incidents')

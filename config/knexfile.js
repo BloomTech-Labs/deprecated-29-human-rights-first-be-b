@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 var dotenv = require('dotenv');
 dotenv.config({ path: '../.env' });
 
