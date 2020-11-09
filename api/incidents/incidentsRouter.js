@@ -133,7 +133,7 @@ router.delete('/cleardb', (req, res) => {
 
 router.post('/fetchfromds', (req, res) => {
   axios
-    .get('https://b-ds.humanrightsfirst.dev/full-report')
+    .get(process.env.DS_API_URL + '/full-report')
     .then((response) => {
       response.data.forEach((element) => {
         // Pulls data from DS and updates incidents database
