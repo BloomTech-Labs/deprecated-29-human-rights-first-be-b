@@ -1,3 +1,6 @@
+/* eslint-disable prettier/prettier */
+/* eslint-disable no-unused-vars */
+/* eslint-disable prettier/prettier */
 const express = require('express');
 const router = express.Router();
 const axios = require('axios');
@@ -9,6 +12,7 @@ const { validateIncidents } = require('./middleware/index');
 
 // ###Incidents Routes###
 router.get('/showallincidents', async (req, res) => {
+  console.log('in showallincidents')
   try {
     const incidents = await Incidents.getAllIncidents();
     const sources = await Incidents.getAllSources();
@@ -48,7 +52,7 @@ router.get('/showallincidents', async (req, res) => {
     });
     res.json(responseArray);
   } catch (e) {
-    res.status(500).json({ message: 'Request Error' });
+    res.status(500).json({ message: 'Request Error changed' });
   }
 });
 
@@ -59,6 +63,7 @@ router.post('/createincidents', validateIncidents, (req, res) => {
       .then((post) => {
         res.status(201).json(post);
       })
+      // eslint-disable-next-line no-unused-vars
       .catch((err) => {
         res.status(500).json({ message: 'Error creating Record' });
       });
@@ -128,15 +133,16 @@ router.delete('/cleardb', (req, res) => {
 
 router.post('/fetchfromds', (req, res) => {
   axios
-    .get(process.env.DS_API_URL)
+    .get(process.env.DS_API_URL + '/full-report')
     .then((response) => {
       response.data.forEach((element) => {
+        // Pulls data from DS and updates incidents database
         Incidents.createIncident(element);
       });
       res.json({ message: 'complete' });
     })
     .catch((err) => {
-      res.json(error);
+      res.json(err);
     });
 });
 

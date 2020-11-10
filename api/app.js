@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 const createError = require('http-errors')
 const express = require('express');
 const cors = require('cors');
@@ -23,7 +24,6 @@ const swaggerUIOptions = {
 
 //###[  Routers ]###
 const indexRouter = require('./index/indexRouter');
-const profileRouter = require('./profile/profileRouter');
 const dsRouter = require('./dsService/dsRouter');
 const incidentsRouter = require('./incidents/incidentsRouter');
 const incidentsModel = require('./incidents/incidentsModel');
@@ -58,7 +58,6 @@ app.use(cookieParser());
 
 // application routes
 app.use('/', indexRouter);
-app.use(['/profile', '/profiles'], profileRouter);
 app.use('/data', dsRouter);
 app.use('/incidents', incidentsRouter);
 
@@ -90,8 +89,8 @@ app.use(function (err, req, res, next) {
 });
 
 // cron job to retrieve data from DS API
-cron.schedule('* * 12 * *', () => {
-  dsFetch()
-});
+// cron.schedule('* * 12 * *', () => {
+//   dsFetch()
+// });
 
 module.exports = app;

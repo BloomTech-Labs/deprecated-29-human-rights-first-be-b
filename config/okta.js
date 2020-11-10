@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 module.exports = {
   expectedAudience: ['api://default', `${process.env.OKTA_CLIENT_ID}`],
   config: {

@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 module.exports = {
   definition: {
     openapi: '3.0.1',
