@@ -1,24 +1,32 @@
 # Human Rights First: Police Brutality Across America
 
-You can find the deployed project at [Human Rights First - Police Brutality Across America](https://main.d17v0exvwwwzgz.amplifyapp.com/).
+You can find the deployed project at https://www.b.humanrightsfirst.dev/.
+## The Team
 
-## Contributors
+- [Hui Zhu](https://github.com/itshui3)[<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/itshui3) [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/xuhuizhu/) - Team Project Lead
 
-|                                                      [Matthew Molloy](https://github.com/)                                                       |                                                       [Jason Schwartz](https://github.com/)                                                        |                                                      [Emilio Diaz-Goico](https://github.com/)                                                       |                                                       [Steele Helbling](https://github.com/)                                                        |     |                                                 
-| :-----------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------: |
-| [<img src="https://ca.slack-edge.com/ESZCHB482-W012H6TKTBP-791655a057b9-512" width = "200" />](https://github.com/) | [<img src="https://ca.slack-edge.com/ESZCHB482-W012QNY40TW-13608abc8792-512" width = "200" />](https://github.com/) | [<img src="https://ca.slack-edge.com/ESZCHB482-W012JQ52B0B-dbe5d49f721f-512" width = "200" />](https://github.com/) | [<img src="https://ca.slack-edge.com/ESZCHB482-W0123RSMJQP-dd8a48c8def2-512" width = "200" />](https://github.com/) | [<img src="https://www.dalesjewelers.com/wp-content/uploads/2018/10/placeholder-silhouette-male.png" width = "0" />](https://github.com/) |
-|                                [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/)                                |                            [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/honda0306)                             |                          [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/Mister-Corn)                           |                          [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/NandoTheessen)                           |                           [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/wvandolah)                            |
-|                [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/)                |                 [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/)                 |                [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/)                |                 [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/)                 |                [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/)                |
+- [Daniel Ajadi](https://github.com/theolamide)[<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/theolamide) [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/daniel-olamide-ajadi/) - Team Project Lead
 
-<br>
-<br>
+- [Samuel Brown](https://github.com/sambrown0322)[<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/sambrown0322) [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/samuelbrown0322/) - Front End Engineer
+
+- [Juan Carlos Alvarado-Arguello](https://github.com/CarlosAA10)[<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/CarlosAA10) [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/carlos-arguello-dev/) - Front End Engineer
+
+- [Charlie Lu](https://github.com/charlupuhh)[<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/charlupuhh) [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/charlie-lu1/) - Front End Engineer
+
+- [Jazmine McGinnis](https://github.com/JazmineMT)[<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/JazmineMT) [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/jazmine-mcginnis-96b290133/) - Back End Engineer
+
+- [Robert Sharp](https://github.com/BrokenShell)[<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/barbaralois) [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/robert-w-sharp/) - Data Science Engineer
+
+- [Crystal Dixson](https://github.com/cdixson-ds)[<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/cdixson-ds) [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/crystaldixson/) - Data Science Engineer
+
+- [Jake Dennis](https://github.com/imdeja)[<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/imdeja) [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/jeremiahdennis/) - Data Science Engineer
+
 
 
 ## Project Overview
 
-[Trello Board](https://trello.com/b/QWXanExQ/team-c-2009)
+[Trello Board](https://trello.com/b/AOaJaAQK/team-b-labs28)
 
-[Technical Architecture and Userflow](https://whimsical.com/8sQcpjw3K2XdAiM9aeMkft)
 
 Our team is developing an interactive map that identifies instances of police use of force across the United States of America for Human Rights First, an independent advocacy and action organization.
 
@@ -351,7 +359,7 @@ DATABASE_URL = postgres://ugkakqld:oZSXjtaGFA1r1psfCfIfv1ZEJID1j4KM@raja.db.elep
 
 # Testing
 
-No testing implemented as of October 16th, 2020. 
+No testing implemented as of November 19th, 2020. 
 
 # Installation Instructions
 
@@ -400,6 +408,6 @@ These contribution guidelines have been adapted from [this good-Contributing.md-
 
 ## Documentation
 
-See [Frontend Documentation](https://github.com/Lambda-School-Labs/Labs27-C-HRF-FE) for details on the frontend of our project.
+See [Frontend Documentation](https://github.com/Lambda-School-Labs/human-rights-first-fe-b) for details on the frontend of our project.
       
 
